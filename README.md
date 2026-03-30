@@ -1,4 +1,4 @@
-# I'm Mark
+# I'm Mark!
 
 Backend engineer from Melbourne with 20+ years of shipping production systems. I've been building in Spring Boot and Laravel, and lately I've been putting AI agents to work on things of questionable importance.
 
@@ -32,7 +32,7 @@ I also enjoy making generative art — some examples are further down the page.
     <td align="center" width="25%">
       <img src="assets/clippys-revenge.png" width="200" alt="Clippy's Revenge"><br>
       <strong>Clippy's Revenge</strong><br>
-      <sub><a href="https://mark.dingwall.com.au/portfolio/clippys-revenge">See it live</a> · <a href="https://github.com/mark-dingwall/Clippys-Revenge">Get the code</a></sub>
+      <sub><a href="https://github.com/mark-dingwall/Clippys-Revenge">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
       <img src="assets/flowsphere.png" width="200" alt="flowsphere"><br>
