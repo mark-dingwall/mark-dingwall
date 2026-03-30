@@ -20,44 +20,44 @@ I also enjoy making generative art — some examples are further down the page.
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/cubeworms.gif" width="200" alt="cubeworms"><br>
+      <img src="assets/cubeworms.jpg" width="200" alt="cubeworms"><br>
       <strong>cubeworms</strong><br>
       <sub><a href="https://mark.dingwall.com.au/sketches/cubeworms">See it live</a> · <a href="https://github.com/mark-dingwall/cubeworms">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/bitbrush.gif" width="200" alt="BitBrush"><br>
+      <img src="assets/bitbrush.png" width="200" alt="BitBrush"><br>
       <strong>BitBrush</strong><br>
       <sub><a href="https://mark.dingwall.com.au/portfolio/bitbrush">See it live</a> · <a href="https://github.com/mark-dingwall/BitBrush">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/clippys-revenge.gif" width="200" alt="Clippy's Revenge"><br>
+      <img src="assets/clippys-revenge.png" width="200" alt="Clippy's Revenge"><br>
       <strong>Clippy's Revenge</strong><br>
       <sub><a href="https://mark.dingwall.com.au/portfolio/clippys-revenge">See it live</a> · <a href="https://github.com/mark-dingwall/Clippys-Revenge">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/flowsphere.gif" width="200" alt="flowsphere"><br>
+      <img src="assets/flowsphere.png" width="200" alt="flowsphere"><br>
       <strong>flowsphere</strong><br>
       <sub><a href="https://mark.dingwall.com.au/sketches/flowsphere">See it live</a> · <a href="https://github.com/mark-dingwall/flowsphere">Get the code</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/forest.gif" width="200" alt="forest"><br>
+      <img src="assets/forest.png" width="200" alt="forest"><br>
       <strong>forest</strong><br>
       <sub><a href="https://mark.dingwall.com.au/sketches/forest">See it live</a> · <a href="https://github.com/mark-dingwall/mark-dingwall.github.io">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/microbes.gif" width="200" alt="microbes"><br>
+      <img src="assets/microbes.png" width="200" alt="microbes"><br>
       <strong>microbes</strong><br>
       <sub><a href="https://mark.dingwall.com.au/sketches/microbes">See it live</a> · <a href="https://github.com/mark-dingwall/mark-dingwall.github.io">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/magnetites.gif" width="200" alt="magnetites"><br>
+      <img src="assets/magnetites.png" width="200" alt="magnetites"><br>
       <strong>magnetites</strong><br>
       <sub><a href="https://mark.dingwall.com.au/sketches/magnetites">See it live</a> · <a href="https://github.com/mark-dingwall/magnetites">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/portfolio.gif" width="200" alt="portfolio"><br>
+      <img src="assets/portfolio.png" width="200" alt="portfolio"><br>
       <strong>portfolio</strong><br>
       <sub><a href="https://mark.dingwall.com.au">See it live</a> · <a href="https://github.com/mark-dingwall/mark-dingwall.github.io">Get the code</a></sub>
     </td>
