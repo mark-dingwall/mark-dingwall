@@ -2,9 +2,9 @@
 
 Backend engineer from Melbourne with 20+ years of shipping production systems. I've been building in Spring Boot and Laravel, lately I've also been putting AI agents to work on things of questionable importance.
 
-I like problems without straightforward solutions. Bayesian tuning, integer linear programming, multi-agent pipelines; If there's a clever algorithm hiding in a business problem, I'll find it.
+I like problems without straightforward solutions. Cracking open challenging issues with clever algorithms is immensely satisfying! It's always enjoyable to learn something new. Recently I've employed Bayesian tuning, integer linear programming, multi-agent pipelines, explainable boosting machines, quaternions and L-systems.
 
-I also enjoy making generative art - some examples are further down the page.
+I'm also into creative coding and generative art - some examples are further down the page.
 
 ## What I've been building
 
