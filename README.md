@@ -66,6 +66,6 @@ I'm also into creative coding and generative art - some examples are further dow
 
 ## My go-to toolkit
 
-`PHP` `Laravel` `Livewire` `JavaScript` `React` `Express.js` `Next.js` `Java` `Spring Boot` `SQL` `Postgres` `TypeScript` `Python` `Shell`
+`PHP` `Laravel` `Java` `Spring Boot` `JavaScript` `React` `Express.js` `Next.js` `SQL` `Postgres` `TypeScript` `Python` `Shell`
 
 More at [mark.dingwall.com.au](https://mark.dingwall.com.au)
