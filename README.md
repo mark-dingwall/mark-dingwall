@@ -68,4 +68,9 @@ I'm also into creative coding and generative art - some examples are further dow
 
 `PHP` `Laravel` `Java` `Spring Boot` `JavaScript` `React` `Express.js` `Next.js` `SQL` `Postgres` `TypeScript` `Python` `Shell`
 
-More at [mark.dingwall.com.au](https://mark.dingwall.com.au)
+## Stats?
+
+<a href="https://github.com/mark-dingwall">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mark-dingwall&show_icons=true&theme=transparent&hide_border=true&hide=issues" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-dingwall&layout=compact&theme=transparent&hide_border=true" />
+</a>
