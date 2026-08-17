@@ -10,11 +10,11 @@ I'm also into creative coding and generative art - some examples are further dow
 
 | Project | Description |
 |---|---|
+| [**Paralife**](https://github.com/mark-dingwall/paralife) | Distributed living simulation — toroidal 2D world with rock-paper-scissors entity dynamics. <br><sub>Spring Boot · Java 21 virtual threads · WebSocket</sub> |
+| [**LLM Skillbook**](https://github.com/mark-dingwall/llm-skillbook) | Code-review and feature-delivery workflows for Claude Code and OpenAI Codex. <br><sub>Python · Claude Code · OpenAI Codex</sub> |
 | [**BitBrush**](https://github.com/mark-dingwall/BitBrush) | Real-time collaborative pixel canvas. REST APIs for canvas state, WebSocket/STOMP for live broadcasts, thread-safe placement banking. <br><sub>Spring Boot · WebSocket/STOMP · Postgres · Flyway · Fly.io</sub> |
 | [**Mystery-Manager**](https://github.com/mark-dingwall/Mystery-Manager) | Allocates bulk produce overage into mystery boxes that customers actually want. Bayesian hyperparameter tuning picks the weights, an ILP solver does the allocation and a glass-box ML model finds the gaps. <br><sub>Python · Optuna · PuLP/HiGHS · EBM · Ordinal regression</sub> |
 | [**apples-to-apples**](https://github.com/mark-dingwall/apples-to-apples) | AI-driven pricing pipeline. Playwright feeds 3 LLM stages with 8 parallel agents. Deterministic cross-validation of output with graceful fallback, trend analysis and audit trail. <br><sub>Python · Playwright · LLM orchestration · AI-drive SWOT analysis</sub> |
-| [**Zeroshot**](https://github.com/mark-dingwall/zeroshot) *(fork)* | Extended an open-source multi-agent engine with parallel analyst clusters, real-time subagent tracking and parameterised templates. Added a framework-agnostic quality gate system. <br><sub>JavaScript · Multi-agent architecture</sub> |
-| [**Clippy's Revenge**](https://github.com/mark-dingwall/Clippys-Revenge) | Terminal visual effects plugin for tattoy: fire, alien invaders, hungry microbes and one very angry paperclip destroy your work! <br><sub>Python · Rust · tattoy plugin protocol · JSON stdin/stdout</sub> |
 | [**mark-dingwall.github.io**](https://github.com/mark-dingwall/mark-dingwall.github.io) | Personal site with shader magic, portfolio showcase, creative coding sketches and a realtime multiplayer canvas. <br><sub>JavaScript · Processing · GSAP · GLSL</sub> |
 
 <table>
