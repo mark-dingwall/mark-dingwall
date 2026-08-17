@@ -30,7 +30,7 @@ I'm also into creative coding and generative art - some examples are further dow
       <sub><a href="https://mark.dingwall.com.au/portfolio/bitbrush">See it live</a> · <a href="https://github.com/mark-dingwall/BitBrush">Get the code</a></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/mark-dingwall/Clippys-Revenge"><img src="assets/clippys-revenge.png" width="200" alt="Clippy's Revenge"></a><br>
+      <a href="https://github.com/mark-dingwall/Clippys-Revenge"><img src="assets/clippys-revenge.gif" width="200" alt="Clippy's Revenge"></a><br>
       <strong>Clippy's Revenge</strong><br>
       <sub><a href="https://github.com/mark-dingwall/Clippys-Revenge">Get the code</a></sub>
     </td>
